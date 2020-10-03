@@ -60,7 +60,8 @@
      	<h1>Covid-19 Tracker</h1>
      	<h5 class="text-muted">An Open Source project to keep track of all the COVID-19 cases around the world</h5>	
      </div>
-    <!-- Image/text animation container -->
+    
+	<!-- Image/text animation container -->
      <div class="main-header">
   <div class="row w-100 h-100">
         <div class="col-lg-5 col-md-5 col-12 order-lg-1 order-2">
@@ -75,7 +76,7 @@
         </div>    
   </div>
 </div>
-      <!-- total covid-19 data cases container -->
+      <!-- Total covid-19 data cases container -->
       <div class="container-fluid my-5 bg-light">
         <div class="row text-center">
             <div class="col-4 text-warning my-5">
@@ -92,7 +93,8 @@
             </div>
         </div>
       </div>
-     <!-- covid-19 data table counntries wise -->
+     
+	<!-- Covid-19 data table counntries wise -->
      <div class="container-fluid">
          <div class="table-responsive">
            <table class="table">
